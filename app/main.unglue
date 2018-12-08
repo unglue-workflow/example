@@ -1,0 +1,8 @@
+{
+    "css" : [
+        "scss/example.scss"
+    ],
+    "js" : [
+        "js/example.js"
+    ]
+}
