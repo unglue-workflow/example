@@ -3,6 +3,6 @@
         "twbs/bootstrap": "^4.1"
     },
     "require-dev": {
-        "unglue/client": "dev-master"
+        "unglue/client": "^1.0"
     }
 }

@@ -1,5 +1,9 @@
 # Unglue Example
 
+Documentation: [https://unglue-docs.readthedocs.io](https://unglue-docs.readthedocs.io/en/latest/)
+
+## Install the example
+
 An unglue frontend workflow example with bootstrap 4 from vendor folder:
 
 1. clone the example app `git clone https://github.com/unglue-workflow/example.git`.
