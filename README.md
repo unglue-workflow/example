@@ -1,6 +1,6 @@
 # Unglue Example
 
-Documentation: [https://unglue-docs.readthedocs.io](https://unglue-docs.readthedocs.io/en/latest/)
+Documentation: [https://docs.unglue.io](https://docs.unglue.io)
 
 ## Install the example
 
